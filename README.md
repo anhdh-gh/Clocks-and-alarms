@@ -4,7 +4,7 @@
 - Java FX
 
 ## Hướng dẫn run code
-- Download [JDK 8](https://github.com/anhdh-gh?tab=repositories&type=public) (nếu chưa có)
+- Download [JDK 8](https://www.oracle.com/java/technologies/downloads/#java8) (nếu chưa có)
 - Tải [ứng dụng (Clocks-and-alarms.jar)](https://github.com/anhdh-gh/Clocks-and-alarms/releases/tag/V1.0.0)
 
 ## Công nghệ sử dụng
