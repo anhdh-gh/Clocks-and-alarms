@@ -3,6 +3,13 @@
 ## Công nghệ sử dụng
 - Java FX
 
+## Hướng dẫn run code
+- Download [JDK 8](https://github.com/anhdh-gh?tab=repositories&type=public) (nếu chưa có)
+- Tải ứng dụng
+
+## Công nghệ sử dụng
+- Java FX
+
 ## Hình ảnh preview
 ### Giao diện xem giờ đồng hồ kim và số của một số quốc gia
 <p align="center">
